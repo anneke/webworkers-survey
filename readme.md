@@ -43,7 +43,7 @@ I ([Anneke Sinnema](https://annekesinnema.nl)) took the initiative for this surv
 ### About the respondents
  
 Gender identity            |  Amount of respondents
-:-------------------------:|:-------------------------:
+:--------------------------|:--------------------------------------------------
 Male                       |  77 (81.1%)
 Female                     |  14 (14.7%)
 I would rather not answer  |  3 (3.2%)
@@ -55,7 +55,7 @@ Why am I asked this?       |  1 (1.1%)
 
 
 Sexual identity            |  Amount of respondents
-:-------------------------:|:-------------------------:
+:--------------------------|:--------------------------------------------------
 Heterosexual               |  78 (82.1%)
 Bisexual                   |  7 (7.4%)
 Gay or lesbian             |  3 (3.2%)
@@ -67,7 +67,7 @@ Why am I asked this?       |  1 (1.1%)
 34.7% is a parent or caretaker (slightly more than a third of respondents).
 
 Mental or physical handicap/impairment |  Amount of respondents
-:-------------------------------------:|:-------------------------:
+:--------------------------------------|:--------------------------------------
 No handicap                            |  89 (93.7%)
 Yes, I have a physical impairment      |  2 (2.1%)
 Yes, I have a mental condition         |  2 (2.1%)
@@ -97,7 +97,7 @@ Respondents are from all over the country, with a majority of 41.4% living in th
 
 
 Experience in years        |  Amount of respondents
-:-------------------------:|:-------------------------:
+:--------------------------|:--------------------------------------------------
 Less than 1 year           |  2
 Between 1 and 5 years      |  13
 Between 6 and 10 years     |  23
@@ -117,7 +117,7 @@ Least experience is less than a year, most experience is 24 years.
 #### Employees
 
 Working where in the Netherlands?               |  Amount of respondents
-:----------------------------------------------:|:-------------------------:
+:-----------------------------------------------|:----------------------------
 North (Friesland, Groningen, Drenthe)           |  1.7%
 Middle (Flevoland, Utrecht)                     |  18.6%
 West (Noord/Zuid-holland)                       |  45.8%
@@ -130,7 +130,7 @@ I live and work in another country outside NL   |  1.7%
 ##### Hours worked
 
 How many hours do you work on average per week? |  Amount of respondents
-:----------------------------------------------:|:------------------------:
+:-----------------------------------------------|:----------------------------
 16 hours a week                                 |  1
 24 hours a week                                 |  1
 32 hours a week                                 |  10
@@ -143,7 +143,7 @@ More than 40 hours                              |  7
 ##### Job perks
 
 Which job perks do you get from your employer?  |  Amount of respondents
-:----------------------------------------------:|:------------------------:
+:-----------------------------------------------|:----------------------------
 Laptop from work                                |  44
 Free lunch                                      |  23
 Gym subscription                                |  4
@@ -157,13 +157,13 @@ _Also mentioned:_ travel expenses (7), lease car (3), phone (2). And one lucky p
 ##### Education budget
 
 Is there an 'education budget' per employee?    |  Amount of respondents
-:----------------------------------------------:|:------------------------:
+:-----------------------------------------------|:----------------------------
 Yes                                             |  43
 No                                              |  16
 
 
 This statement is true about your education budget  |  Number of people
-:--------------------------------------------------:|:------------------------:
+:---------------------------------------------------|:-------------------------
 There is no clear max budget                        |  27
 There is a clear max budget                         |  16
 After attending an event I have to present my learnings to my colleagues at work                                                |  9
@@ -185,7 +185,7 @@ It's hard to use the budget, because I can hardly take time off                 
 #### Independent contractors/employers
 
 How much time a week do you spend working?      |  Amount of respondents
-:----------------------------------------------:|:------------------------:
+:-----------------------------------------------|:-------------------------
 24 hours a week                                 |  24
 32 hours a week                                 |  12
 40 hours a week                                 |  6
@@ -197,7 +197,7 @@ More than 40 hours                              |  15
 #### What things do you do as part of your job?
 
 What do you do in your job?                        |  Amount of respondents
-:-------------------------------------------------:|:------------------------:
+:--------------------------------------------------|:-------------------------
 Program (HTML/CSS)                                 |  86
 Program (Javascript)                               |  76
 Program (back-end development)                     |  48
@@ -218,7 +218,7 @@ Scrum Master                                       |  9
 #### Do you have a formal education for what you do professionally?
 
 Formal education?     |  Amount of respondents
-:--------------------:|:------------------------:
+:---------------------|:-------------------------------------------------------
 No                    |  49 
 Yes                   |  41 
 No, but I did a serious course (online) that took me a few months to complete (Udemy, Udacity, LOI)  |  5 
@@ -227,7 +227,7 @@ No, but I did a serious course (online) that took me a few months to complete (U
 #### Level of proficiency (self-estimated)
 
 How do you estimate your level?                    |  Amount of respondents
-:-------------------------------------------------:|:------------------------:
+:--------------------------------------------------|:-------------------------
 Junior                                             |  6
 Medior                                             |  22
 Senior                                             |  67
@@ -236,7 +236,7 @@ Senior                                             |  67
 #### Tools used
 
 How do you estimate your level?                    |  Amount of respondents
-:-------------------------------------------------:|:------------------------:
+:--------------------------------------------------|:-------------------------
 HTML                                               |  91
 CSS                                                |  88
 Javascript                                         |  81
@@ -258,7 +258,7 @@ _Also mentioned:_ Perl,   Backbone, Marionette, Nativescript, Typescript/Rx, Erl
 
 
 Do you use taskrunners or build tools?             |  Amount of respondents
-:-------------------------------------------------:|:------------------------:
+:--------------------------------------------------|:-------------------------
 Gulp                                               |  58
 Webpack                                            |  56
 Grunt                                              |  36
@@ -274,7 +274,7 @@ _Also mentioned:_ home made .sh scripts, Ruby build tool
 
 
 Do you frequently use a Javascript framework?      |  Amount of respondents 
-:-------------------------------------------------:|:------------------------:
+:--------------------------------------------------|:-------------------------
 I build everything to order                        |  39 (41.1%)
 React                                              |  22 (23.2%)
 I rarely use Javascript                            |  21 (22,1%)
@@ -286,7 +286,7 @@ Meteor                                             |  1 (1,1%)
 
 
 Do you use a CMS for projects?                     |  Amount of respondents
-:-------------------------------------------------:|:------------------------:
+:--------------------------------------------------|:-------------------------
 'home-made' CMS                                    |  34
 Wordpress                                          |  28
 Not applicable                                     |  14
@@ -305,7 +305,7 @@ _Also mentioned (once each):_ Joomla, Craft, Typo3, Harp, Kentico, Laravel, OroC
 
 
 Do you use a version control system?               |  Amount of respondents
-:-------------------------------------------------:|:------------------------:
+:--------------------------------------------------|:-------------------------
 Git                                                |  89 (93.7%)
 SVN                                                |  14 (14.7%) 
 TFS                                                |  2 (2,1%)
@@ -319,7 +319,7 @@ No                                                 |  1 (1.1%)
 How much time do you spend (unpaid) on things related to your work/'the web'? 
 
 Amount of time              |  Amount of respondents
-:--------------------------:|:------------------------:
+:---------------------------|:-------------------------
 0 hours                     |  3 (3.2%)
 0 to 2 hours                |  12 (12.6%) 
 2 to 4 hours                |  18 (18.9%)    
@@ -347,7 +347,7 @@ _Some of the (61) comments:_
 ### Happiness at work
 
 If I won the lottery...                  |  Amount of respondents
-:---------------------------------------:|:------------------------:
+:----------------------------------------|:-------------------------
 I would do exactly the same things       |  42 (44.2%)
 I would do more web-related things       |  26 (27.4%)
 I would find a completely different job  |  15 (15.8%)
@@ -357,7 +357,7 @@ I would stop working                     |  12 (12.6%)
 ## Mentoring
 
 Do you have a mentor?                        |  Amount of respondents
-:-------------------------------------------:|:------------------------:
+:--------------------------------------------|:-------------------------
 No, but I know people I can ask for advice   |  45 (47.4%)
 Yes, a colleague I regard as a mentor        |  18 (18.9%)
 No, and I don't think I need one             |  17 (17.9%)
@@ -365,7 +365,7 @@ Yes, in an official capacity at work         |  13 (13.7%)
 No, but I think I'd like one                 |  12 (12.6%)
 
 Are you a mentor to someone?                 |  Amount of respondents
-:-------------------------------------------:|:------------------------:
+:--------------------------------------------|:-------------------------
 Yes, a colleague I regard as 'my junior'     |  33 (34.7%)
 No, but I know people I give advice often    |  30 (31.6%)
 No, and I don't want to be one               |  17 (17.9%)
@@ -376,7 +376,7 @@ Yes, in an official capacity at work         |  12 (12.6%)
 ## Workshops
 
 Do you attend full-day workshops?            |  Amount of respondents
-:-------------------------------------------:|:------------------------:
+:--------------------------------------------|:-------------------------
 Yes                                          |  44 (46.3%)
 No                                           |  22 (23.2%)
 Never have, but I might want to              |  21 (22.1%)
@@ -394,14 +394,14 @@ _Some of the (34) comments:_
 * "Ik besteed liever meer tijd en ga de diepte dan dat ik naar avondjes met ‘inspiratie talks’ ga. De daglang goeroes op een podium in een spotlight trekt me niet. Ik wil graag met gelijkgestemden kunnen sparren. Bar camps zijn bij mij favoriet omdat iedereen participeert en je zelf dus een topic kunt aandragen. In Europa vind ik van de conferences EuroIA euroia.org erg goed, goed format en ik leer er echt iets."
 
 How far are you willing to travel for a fullday workshop? |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 Max. 1 hour                                               |  47 (49.5%)
 Max. 2 hours                                              |  29 (30.5%)
 More than 2 hours                                         |  14 (14.7%)
 Max. 30 minutes                                           |  5 (5.3%) 
 
 Reasons for people to do workshops?                       |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 Inspiration for future projects                           |  65 (68.4%)
 A very experienced workshop teacher                       |  53 (55.8%)
 Fun                                                       |  49 (51.6%)
@@ -417,7 +417,7 @@ _Other reasons_ only got one vote each, like 'the subject is attractive to me', 
 ### How would you prefer the workshop to go?
 
 Preferred way of interacting at a workshop                |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 1 Introduce yourself at the start of the workshop         |  31 (32.6%)
 2                                                         |  22 (23.2%)
 3 Neutral                                                 |  24 (25.3%)
@@ -425,7 +425,7 @@ Preferred way of interacting at a workshop                |  Amount of responden
 5 Introduce yourself when you ask a question              |  9 (9.5%)
 
 Preferred way of asking questions                         |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 1 Interrupt the trainer/teacher (with permission)         |  5 (5.3%)
 2                                                         |  10 (10.5%)
 3 Neutral                                                 |  24 (25.3%)
@@ -433,7 +433,7 @@ Preferred way of asking questions                         |  Amount of responden
 5 Raise your hand                                         |  24 (24.3%)
 
 Preferred way of following the workshop                   |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 1 Follow the presentation on a big screen                 |  13 (13.7%)
 2                                                         |  18 (18.9%)
 3 Neutral                                                 |  35 (36.8%)
@@ -441,7 +441,7 @@ Preferred way of following the workshop                   |  Amount of responden
 5 Follow along on my own laptop                           |  12 (12.6%)
 
 Preferred Amount of respondents in the group                   |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 1 A large group (10 people or more)                       |  5 (5.3%)
 2 (9 people)                                              |  7 (7.4%)
 3 (8 people)                                              |  44 (46.3%)
@@ -449,7 +449,7 @@ Preferred Amount of respondents in the group                   |  Amount of resp
 5 A small group (6 people or less)                        |  9 (9.5%)
 
 Type of assignments                                       |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 1 Group assignments                                       |  3 (3.2%)
 2                                                         |  11 (11.6%)
 3 Neutral                                                 |  35 (36.8%)
@@ -457,7 +457,7 @@ Type of assignments                                       |  Amount of responden
 5 Individual assignments                                  |  16 (16.8%)
 
 Way of receiving feedback                                 |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 1 Discuss your work in a group                            |  15 (15.8%)
 2                                                         |  33 (34.7%)
 3 Neutral                                                 |  33 (34.7%)
@@ -470,7 +470,7 @@ Way of receiving feedback                                 |  Amount of responden
 ### Range
 
 How far are you willing to travel for a meetup?           |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 Max. 1 hour                                               |  59 (62.1%)
 Max. 30 minutes                                           |  26 (27.4%) 
 Max. 2 hours                                              |  9 (9.5%)
@@ -510,7 +510,7 @@ _Comments (out of 12)_
 ### Range
 
 How far are you willing to travel for a 2 day conference? |  Amount of respondents
-:--------------------------------------------------------:|:------------------:
+:---------------------------------------------------------|:-------------------
 More than 3 hours                                         |  42 (44.2%)
 Max. between 1 and 2 hours                                |  31 (32.6%)
 Max. between 2 and 3 hours                                |  12 (12.6%)
@@ -519,7 +519,7 @@ Max. 30 minutes                                           |  2 (2.1%)
 
 
 Do you go home or do you stay in a hotel?       |  Amount of respondents
-:----------------------------------------------:|:------------------------:
+:-----------------------------------------------|:-------------------------
 Only stay in hotel if I really can't get home   |  48 (50.2%)
 I prefer a hotel, if needed I'll pay it myself  |  35 (36.8%)
 Only if my employer pays for it                 |  20 (21.1%)
@@ -536,7 +536,7 @@ I asked, what to you is a reasonable price for a conference? I got a lot of diff
 Last but not least, I asked respondents about diversity tickets, and how they feel about them.
 
 Diversity tickets                               |  Amount of respondents
-:----------------------------------------------:|:------------------------:
+:-----------------------------------------------|:-------------------------
 I don't think they are meant for me             |  58 (61.1%)
 I do not apply for them                         |  51 (53.7%)
 I think all events should offer diversity tix   |  32 (33.7%)
