@@ -50,7 +50,9 @@ I would rather not answer  |  3 (3.2%)
 Why am I asked this?       |  1 (1.1%)
 
 ![1 person identifies as transgender](https://raw.githubusercontent.com/anneke/webworkers-survey/master/images/transgender.png)
-Note: I have left this information out of the resulting JSON/excel files, because I feel the size of the group that answered this question in the affermative is so small that we can't draw any results based on this answer and it might needlessly identify individuals that wish to remain anonymous.
+
+*Note:* I have left this information out of the resulting JSON/excel files, because I feel the size of the group that answered this question in the affermative is so small that we can't draw any results based on this answer and it might needlessly identify individuals that wish to remain anonymous.
+
 
 Sexual identity            |  Amount of respondents
 :-------------------------:|:-------------------------:
@@ -61,9 +63,8 @@ I would rather not answer  |  6 (6.3%)
 Why am I asked this?       |  1 (1.1%)
 
 ![34.7% is a parent or caretaker](https://raw.githubusercontent.com/anneke/webworkers-survey/master/images/caretaker.png)
-34.7% is a parent or caretaker
 
-![93.7% said they do not have a mental or physical handicap](https://raw.githubusercontent.com/anneke/webworkers-survey/master/images/img.png)
+34.7% is a parent or caretaker (slightly more than a third of respondents).
 
 Mental or physical handicap/impairment |  Amount of respondents
 :-------------------------------------:|:-------------------------:
@@ -73,9 +74,9 @@ Yes, I have a mental condition         |  2 (2.1%)
 I would rather not answer              |  2 (2.1%)
 
 ![24.2% identifies as introvert, 14.7% as extravert, 58.9% as a little of both](https://raw.githubusercontent.com/anneke/webworkers-survey/master/images/version.png)
+
 I asked if people consider themselves at the introverted or extraverted side of the spectrum. 24.2% identifies as introvert, 14.7% as extravert, 58.9% see themselves as a little of both.
 
-![16.8% sees themselves as belonging to a minority](https://raw.githubusercontent.com/anneke/webworkers-survey/master/images/img.png)
 I asked if respondents consider themselves as belonging to a minority in our field. 16.8% said yes.
 
 * "Het blijft opvallen dat ik nog regelmatig de enige vrouw ben in een team of op een meetup (is op zich niet echt een probleem)"
@@ -88,9 +89,11 @@ I asked if respondents consider themselves as belonging to a minority in our fie
 * "Ik ben een zwarte vrouw (40+)"
 * "Ik ben op late leeftijd binnen de front-end beroepsgroep gekomen. Voel me daardoor wel wat een minderheid."
 
-![90.5% of respondents are from the Netherlands](https://raw.githubusercontent.com/anneke/webworkers-survey/master/images/img.png)
+![90.5% of respondents are from the Netherlands](https://raw.githubusercontent.com/anneke/webworkers-survey/master/images/from.png)
 
-![Respondents are from all over the country, with a majority from the west Netherlands](https://raw.githubusercontent.com/anneke/webworkers-survey/master/images/img.png)
+![](https://raw.githubusercontent.com/anneke/webworkers-survey/master/images/fromwhere.png)
+
+Respondents are from all over the country, with a majority of 41.4% living in the west of the Netherlands.
 
 
 Experience in years        |  Amount of respondents
